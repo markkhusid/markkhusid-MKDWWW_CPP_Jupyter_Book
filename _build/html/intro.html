@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Welcome to your Jupyter Book &#8212; My sample book</title>
+    <title>Fortran Programming &#8212; C++ Programming</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -52,7 +52,7 @@ const thebe_selector_output = ".output, .cell_output"
     <script async="async" src="_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="Markdown Files" href="markdown.html" />
+    <link rel="next" title="Worked Examples" href="Object_Oriented_Programming_Using_Cpp/Object_Oriented_Programming_Using_Cpp.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
     
@@ -89,14 +89,9 @@ const thebe_selector_output = ".output, .cell_output"
         <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
       
-        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
-        
       
       
-      <img src="_static/logo.png" class="logo" alt="logo">
-      
-      
-      <h1 class="site-logo" id="site-title">My sample book</h1>
+      <h1 class="site-logo" id="site-title">C++ Programming</h1>
       
     </a>
 </div><form class="bd-search d-flex align-items-center" action="search.html" method="get">
@@ -108,11 +103,35 @@ const thebe_selector_output = ".output, .cell_output"
         <ul class="nav bd-sidenav bd-sidenav__home-link">
             <li class="toctree-l1 current active">
                 <a class="reference internal" href="#">
-                    Welcome to your Jupyter Book
+                    Fortran Programming
                 </a>
             </li>
         </ul>
-        <ul class="nav bd-sidenav">
+        <p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Object Oriented Programming Using C++
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="Object_Oriented_Programming_Using_Cpp/Object_Oriented_Programming_Using_Cpp.html">
+   Worked Examples
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul class="simple">
+  </ul>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Miscellaneous
+ </span>
+</p>
+<ul class="nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="markdown.html">
    Markdown Files
@@ -121,11 +140,6 @@ const thebe_selector_output = ".output, .cell_output"
  <li class="toctree-l1">
   <a class="reference internal" href="notebooks.html">
    Content with notebooks
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="markdown-notebooks.html">
-   Notebooks with MyST Markdown
   </a>
  </li>
 </ul>
@@ -193,51 +207,6 @@ title="Fullscreen mode"
 
 </button>
 
-<div class="menu-dropdown menu-dropdown-repository-buttons">
-  <button class="headerbtn menu-dropdown__trigger"
-      aria-label="Source repositories">
-      <i class="fab fa-github"></i>
-  </button>
-  <div class="menu-dropdown__content">
-    <ul>
-      <li>
-        <a href="https://github.com/executablebooks/jupyter-book"
-   class="headerbtn"
-   data-toggle="tooltip"
-data-placement="left"
-title="Source repository"
->
-  
-
-<span class="headerbtn__icon-container">
-  <i class="fab fa-github"></i>
-  </span>
-<span class="headerbtn__text-container">repository</span>
-</a>
-
-      </li>
-      
-      <li>
-        <a href="https://github.com/executablebooks/jupyter-book/issues/new?title=Issue%20on%20page%20%2Fintro.html&body=Your%20issue%20content%20here."
-   class="headerbtn"
-   data-toggle="tooltip"
-data-placement="left"
-title="Open an issue"
->
-  
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-lightbulb"></i>
-  </span>
-<span class="headerbtn__text-container">open issue</span>
-</a>
-
-      </li>
-      
-    </ul>
-  </div>
-</div>
-
 <div class="menu-dropdown menu-dropdown-download-buttons">
   <button class="headerbtn menu-dropdown__trigger"
       aria-label="Download this page">
@@ -283,23 +252,114 @@ title="Print to PDF"
     </ul>
   </div>
 </div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
 
     </div>
 </div>
 
 <!-- Table of contents -->
 <div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#resources-and-textbooks-used">
+   Resources and Textbooks Used
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#guide-to-fortran-2008-programming-by-walter-s-brainerd">
+     “Guide to Fortran 2008 Programming” by Walter S.Brainerd
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#introduction-to-programming-using-fortran-from-the-open-textbook-library">
+     “Introduction to Programming Using Fortran” from the Open Textbook Library
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#modern-fortan-by-milan-curcic-manning-publications">
+     “Modern Fortan” by Milan Curcic (Manning Publications)
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#prace-mooc-on-fortran-for-scientific-programming-by-futurelearn">
+     PRACE MOOC on “Fortran for scientific programming” by FutureLearn
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#project-code-on-github">
+     Project Code on Github
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+    </nav>
 </div>
     </div>
     <div class="article row">
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>Welcome to your Jupyter Book</h1>
+                <h1>Fortran Programming</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
                         
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#resources-and-textbooks-used">
+   Resources and Textbooks Used
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#guide-to-fortran-2008-programming-by-walter-s-brainerd">
+     “Guide to Fortran 2008 Programming” by Walter S.Brainerd
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#introduction-to-programming-using-fortran-from-the-open-textbook-library">
+     “Introduction to Programming Using Fortran” from the Open Textbook Library
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#modern-fortan-by-milan-curcic-manning-publications">
+     “Modern Fortan” by Milan Curcic (Manning Publications)
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#prace-mooc-on-fortran-for-scientific-programming-by-futurelearn">
+     PRACE MOOC on “Fortran for scientific programming” by FutureLearn
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#project-code-on-github">
+     Project Code on Github
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+                        </nav>
                     </div>
                 </div>
             </div>
@@ -307,19 +367,43 @@ title="Print to PDF"
                 
               <div>
                 
-  <section class="tex2jax_ignore mathjax_ignore" id="welcome-to-your-jupyter-book">
-<h1>Welcome to your Jupyter Book<a class="headerlink" href="#welcome-to-your-jupyter-book" title="Permalink to this headline">#</a></h1>
-<p>This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out <a class="reference external" href="https://jupyterbook.org">the Jupyter Book documentation</a> for more information.</p>
-<p>Check out the content pages bundled with this sample book to see more.</p>
+  <section class="tex2jax_ignore mathjax_ignore" id="fortran-programming">
+<h1>Fortran Programming<a class="headerlink" href="#fortran-programming" title="Permalink to this headline">#</a></h1>
+<p><a class="reference external" href="https://www.mkdynamics.net">Home</a></p>
+<p><img alt="fortran_code" src="Images/fortran_code.jpeg" /></p>
+<section id="resources-and-textbooks-used">
+<h2>Resources and Textbooks Used<a class="headerlink" href="#resources-and-textbooks-used" title="Permalink to this headline">#</a></h2>
+<p>In this section we will be programming in Fortran using examples and techniques found in these books and resources:  <br></p>
+<section id="guide-to-fortran-2008-programming-by-walter-s-brainerd">
+<h3>“Guide to Fortran 2008 Programming” by Walter S.Brainerd<a class="headerlink" href="#guide-to-fortran-2008-programming-by-walter-s-brainerd" title="Permalink to this headline">#</a></h3>
+<p>This book may be purchased here: <br>
+<a class="reference external" href="https://www.amazon.com/Guide-Fortran-Programming-Walter-brainerd/dp/1447167589/ref=sr_1_1?crid=JARCJZJ2KJZN&amp;keywords=guide+to+fortran+2008+programming&amp;qid=1581908665&amp;sprefix=guide+to+fortran+2008+programming%2Caps%2C189&amp;sr=8-1">Amazon page to purchase “Guide to Fortran 2008 Programming” by Walter S. Brainerd”</a></p>
+</section>
+<section id="introduction-to-programming-using-fortran-from-the-open-textbook-library">
+<h3>“Introduction to Programming Using Fortran” from the Open Textbook Library<a class="headerlink" href="#introduction-to-programming-using-fortran-from-the-open-textbook-library" title="Permalink to this headline">#</a></h3>
+<p>This online resource may be obtained here: <br>
+<a class="reference external" href="https://open.umn.edu/opentextbooks/textbooks/introduction-to-programming-using-fortran-95-2003-2008">Introduction to Programming using Fortran</a></p>
+</section>
+<section id="modern-fortan-by-milan-curcic-manning-publications">
+<h3>“Modern Fortan” by Milan Curcic (Manning Publications)<a class="headerlink" href="#modern-fortan-by-milan-curcic-manning-publications" title="Permalink to this headline">#</a></h3>
+<p>This book may be purchased from:
+<a class="reference external" href="https://www.manning.com/books/modern-fortran">Modern Fortran: Building Efficient Parallel Applications</a></p>
+</section>
+<section id="prace-mooc-on-fortran-for-scientific-programming-by-futurelearn">
+<h3>PRACE MOOC on “Fortran for scientific programming” by FutureLearn<a class="headerlink" href="#prace-mooc-on-fortran-for-scientific-programming-by-futurelearn" title="Permalink to this headline">#</a></h3>
+<p>This online resource may be obtained from Github  <a class="reference external" href="https://www.futurelearn.com/courses/fortran-for-scientific-computing">PRACE MOOC on “Fortran for scientific programming”</a></p>
+</section>
+<section id="project-code-on-github">
+<h3>Project Code on Github<a class="headerlink" href="#project-code-on-github" title="Permalink to this headline">#</a></h3>
+<p>Project code is available at the following Github repositories:<br>
+<a class="reference external" href="https://github.com/markkhusid/Guide-to-Fortran-2008-Programming">Worked Examples in Guide to Fortran 2008 Programming</a></p>
+<p><a class="reference external" href="https://github.com/markkhusid/Introduction-to-Programming-using-Fortran">Worked Examples in Introduction to Programming Using Fortran</a></p>
+<p><a class="reference external" href="https://github.com/markkhusid/Modern_Fortran">Worked Examples in Modern Fortran</a></p>
+</section>
+</section>
 <div class="toctree-wrapper compound">
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="markdown.html">Markdown Files</a></li>
-<li class="toctree-l1"><a class="reference internal" href="notebooks.html">Content with notebooks</a></li>
-<li class="toctree-l1"><a class="reference internal" href="markdown-notebooks.html">Notebooks with MyST Markdown</a></li>
-</ul>
+</div>
+<div class="toctree-wrapper compound">
 </div>
 </section>
 
@@ -350,10 +434,10 @@ It does not go in-depth into any particular topic - check out <a class="referenc
                 
     <!-- Previous / next buttons -->
 <div class='prev-next-area'>
-    <a class='right-next' id="next-link" href="markdown.html" title="next page">
+    <a class='right-next' id="next-link" href="Object_Oriented_Programming_Using_Cpp/Object_Oriented_Programming_Using_Cpp.html" title="next page">
     <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Markdown Files</p>
+        <p class="prev-next-title">Worked Examples</p>
     </div>
     <i class="fas fa-angle-right"></i>
     </a>
@@ -364,9 +448,8 @@ It does not go in-depth into any particular topic - check out <a class="referenc
     <div class="footer-content row">
         <footer class="col footer"><p>
   
-    By The Jupyter Book Community<br/>
+    By Mark Khusid<br/>
   
-      &copy; Copyright 2022.<br/>
 </p>
         </footer>
     </div>
