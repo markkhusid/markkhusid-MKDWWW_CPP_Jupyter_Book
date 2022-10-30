@@ -1,4 +1,3 @@
-
 // Hello world in C++
 #include <iostream>
 #include <string>
