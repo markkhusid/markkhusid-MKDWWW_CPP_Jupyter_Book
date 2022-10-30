@@ -2,32 +2,18 @@
 
 [Home](https://www.mkdynamics.net)
 
-![fortran_code](Images/CPP_Logo.png)
+![CPP_code](Images/CPP_Logo.png)
 
 ## Resources and Textbooks Used
 
-In this section we will be programming in Fortran using examples and techniques found in these books and resources:  <br>
+In this section we will be programming in Fortran using examples and techniques found in these books and resources: <br>
 
-### "Guide to Fortran 2008 Programming" by Walter S.Brainerd
+### "Object-Oriented Programming Using C++" by Ira Pohl
 This book may be purchased here: <br>
-[Amazon page to purchase "Guide to Fortran 2008 Programming" by Walter S. Brainerd"](https://www.amazon.com/Guide-Fortran-Programming-Walter-brainerd/dp/1447167589/ref=sr_1_1?crid=JARCJZJ2KJZN&keywords=guide+to+fortran+2008+programming&qid=1581908665&sprefix=guide+to+fortran+2008+programming%2Caps%2C189&sr=8-1)
-
-### "Introduction to Programming Using Fortran" from the Open Textbook Library
-This online resource may be obtained here: <br>
-[Introduction to Programming using Fortran](https://open.umn.edu/opentextbooks/textbooks/introduction-to-programming-using-fortran-95-2003-2008)
-
-### "Modern Fortan" by Milan Curcic (Manning Publications)
-This book may be purchased from:
-[Modern Fortran: Building Efficient Parallel Applications](https://www.manning.com/books/modern-fortran)
-
-### PRACE MOOC on "Fortran for scientific programming" by FutureLearn
-This online resource may be obtained from Github  [PRACE MOOC on "Fortran for scientific programming"](https://www.futurelearn.com/courses/fortran-for-scientific-computing)
+[Amazon page to purchase "Object-Oriented Programming Using C++ by Ira Pohl"](https://www.amazon.com/Object-Oriented-Programming-Using-C-2nd/dp/0201895501/ref=sr_1_4?crid=3F67JR9WX9E2K&keywords=object+oriented+programming+using+c%2B%2B&qid=1667165033&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=object+oriented+programming+using+c%2B%2Caps%2C420&sr=8-4)
 
 ### Project Code on Github
 
 Project code is available at the following Github repositories:<br>
-[Worked Examples in Guide to Fortran 2008 Programming](https://github.com/markkhusid/Guide-to-Fortran-2008-Programming)
+[Worked Examples in Object-Oriented Programming Using C++](https://github.com/markkhusid/Object_Oriented_Programming_Using_Cpp)
                             
-[Worked Examples in Introduction to Programming Using Fortran](https://github.com/markkhusid/Introduction-to-Programming-using-Fortran)
-
-[Worked Examples in Modern Fortran](https://github.com/markkhusid/Modern_Fortran)
