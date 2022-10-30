@@ -1,8 +1,8 @@
-# Fortran Programming
+# C++ Programming
 
 [Home](https://www.mkdynamics.net)
 
-![fortran_code](Images/fortran_code.jpeg)
+![fortran_code](Images/CPP_Logo.png)
 
 ## Resources and Textbooks Used
 
