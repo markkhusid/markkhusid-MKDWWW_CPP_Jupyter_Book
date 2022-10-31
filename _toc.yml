@@ -5,7 +5,7 @@ parts:
   chapters:
   - file: Object_Oriented_Programming_Using_Cpp/Object_Oriented_Programming_Using_Cpp
     sections:
-    - file: Object_Oriented_Progamming_Using_Cpp/Hello_Cpp
+    - file: Object_Oriented_Programming_Using_Cpp/Hello_Cpp
 - caption: Miscellaneous
   chapters:
     - file: markdown
