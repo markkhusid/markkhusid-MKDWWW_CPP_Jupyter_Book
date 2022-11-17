@@ -8,6 +8,11 @@ parts:
     - file: Object_Oriented_Programming_Using_Cpp/Hello_Cpp
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_1_5_Overloading
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_1_7_The_Standard_Template_Library
+    - file: Object_Oriented_Programming_Using_Cpp/Chapter_2_3_Program_Structure
+    - file: Object_Oriented_Programming_Using_Cpp/Chapter_2_5_The_Traditional_Conversions
+    - file: Object_Oriented_Programming_Using_Cpp/Chapter_3_1_1_Function_Invocation
+    - file: Object_Oriented_Programming_Using_Cpp/Chapter_3_2_Function_Definition
+    
 - caption: Miscellaneous
   chapters:
     - file: markdown
