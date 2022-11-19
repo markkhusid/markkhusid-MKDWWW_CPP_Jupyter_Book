@@ -17,7 +17,9 @@ parts:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_3_6_Overloading_Functions
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_3_10_Pointer_Types
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_3_12_Arrays_and_Pointers
-
+    - file: Object_Oriented_Programming_Using_Cpp/Chapter_3_16_Assertions_and_Program_Correctness
+    - file: Object_Oriented_Programming_Using_Cpp/Chapter_3_19_Free_Store_Operators_new_and_delete
+    
 - caption: Miscellaneous
   chapters:
     - file: markdown
