@@ -35,7 +35,7 @@ kernelspec:
 # }
 # ```
 
-# The above program is compiled and run using Gnu Compiler Colletion (g++):
+# The above program is compiled and run using Gnu Compiler Collection (g++):
 
 # In[1]:
 

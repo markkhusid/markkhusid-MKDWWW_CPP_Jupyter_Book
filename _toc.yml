@@ -15,6 +15,7 @@ parts:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_3_3_The_Return_Statement
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_3_4_Function_Prototypes
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_3_6_Overloading_Functions
+    - file: Object_Oriented_Programming_Using_Cpp/Chapter_3_10_Pointer_Types
 
 - caption: Miscellaneous
   chapters:
