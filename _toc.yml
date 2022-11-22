@@ -19,6 +19,12 @@ parts:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_3_12_Arrays_and_Pointers
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_3_16_Assertions_and_Program_Correctness
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_3_19_Free_Store_Operators_new_and_delete
+    - file: Object_Oriented_Programming_Using_Cpp/Chapter_4_3_An_Example_Stack
+    - file: Object_Oriented_Programming_Using_Cpp/Chapter_4_7_Bit_Fields
+    - file: Object_Oriented_Programming_Using_Cpp/Chapter_4_8_Two_Dimensional_Dynamic_Arrays
+    - file: Object_Oriented_Programming_Using_Cpp/Chapter_5_2_Access_Private_and_Public
+    - file: Object_Oriented_Programming_Using_Cpp/Chapter_5_7_The_This_Pointer
+    - file: Object_Oriented_Programming_Using_Cpp/Chapter_5_8_Static_and_Const_Member_Functions
     
 - caption: Miscellaneous
   chapters:
