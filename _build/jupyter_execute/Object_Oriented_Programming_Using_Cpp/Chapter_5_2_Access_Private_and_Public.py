@@ -58,7 +58,7 @@ kernelspec:
 #         void push (char c)  { top++; s[top] = c; }
 #         char pop ()         { return s[top--]; }
 #         char top_of ()      { return s[top]; }
-#         bool empty ()      { return ( top == EMPTY ); }
+#         bool empty ()       { return ( top == EMPTY ); }
 #         bool full ()        { return ( top == FULL  ); }
 # 
 #     private:
