@@ -25,6 +25,7 @@ parts:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_5_2_Access_Private_and_Public
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_5_7_The_This_Pointer
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_5_8_Static_and_Const_Member_Functions
+    - file: Object_Oriented_Programming_Using_Cpp/Chapter_5_9_Containers_and_Item_Access
     
 - caption: Miscellaneous
   chapters:
