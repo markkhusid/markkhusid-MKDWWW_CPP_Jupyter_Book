@@ -48,6 +48,7 @@ parts:
     sections:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_1_0_Classes_with_Constructors
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_1_3_Constructors_as_Conversions
+    - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_2_1_The_Copy_Constructor
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_4_An_Example__Dynamically_Allocated_Strings
     
 - caption: Miscellaneous
