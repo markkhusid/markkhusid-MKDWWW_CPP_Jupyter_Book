@@ -52,6 +52,7 @@ parts:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_3_Classes_with_Destructors
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_4_An_Example__Dynamically_Allocated_Strings
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_5_A_Class_Vect
+    - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_6_Members_that_Are_Class_Types
     
 - caption: Miscellaneous
   chapters:
