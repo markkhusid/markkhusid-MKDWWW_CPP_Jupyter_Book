@@ -15,7 +15,7 @@ kernelspec:
 
 # Adapted from: "Object-Oriented Programming Using C++" by Ira Pohl (Addison - Wesley)
 
-# ## Program that class members that are class types in C++
+# ## Program that demonstrates class members that are class types in C++
 
 # In file vect1.h
 
