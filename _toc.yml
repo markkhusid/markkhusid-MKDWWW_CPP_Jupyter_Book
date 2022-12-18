@@ -55,6 +55,7 @@ parts:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_6_Members_that_Are_Class_Types
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_7_An_Example__A_Singly_Linked_List
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_8_Two_Dimensional_Arrays
+    - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_9_Polynomials_as_a_Linked_List
     
 - caption: Miscellaneous
   chapters:
