@@ -56,6 +56,7 @@ parts:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_7_An_Example__A_Singly_Linked_List
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_8_Two_Dimensional_Arrays
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_9_Polynomials_as_a_Linked_List
+    - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_10_Strings_Using_Reference_Semantics
     
 - caption: Miscellaneous
   chapters:
