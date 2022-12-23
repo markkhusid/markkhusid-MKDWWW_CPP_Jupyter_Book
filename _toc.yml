@@ -57,6 +57,7 @@ parts:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_8_Two_Dimensional_Arrays
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_9_Polynomials_as_a_Linked_List
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_10_Strings_Using_Reference_Semantics
+    - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_11_No_Constructor_Copy_Constructor_and_Other_Mysteries
     
 - caption: Miscellaneous
   chapters:
