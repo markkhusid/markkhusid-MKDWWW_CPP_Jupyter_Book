@@ -63,6 +63,7 @@ parts:
   - file: Object_Oriented_Programming_Using_Cpp/Object_Oriented_Programming_Using_Cpp_Ch_7
     sections:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_7_1_ADT_Conversions
+    - file: Object_Oriented_Programming_Using_Cpp/Chapter_7_2_Overloading_and_Function_Selection
 
 - caption: Miscellaneous
   chapters:
