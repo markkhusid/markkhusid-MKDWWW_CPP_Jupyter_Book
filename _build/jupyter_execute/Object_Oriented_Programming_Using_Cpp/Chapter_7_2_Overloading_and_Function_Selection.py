@@ -15,7 +15,7 @@ kernelspec:
 
 # Adapted from: "Object-Oriented Programming Using C++" by Ira Pohl (Addison - Wesley)
 
-# ## Program that demonstrates overloaded function selection in C++
+# ## Program that demonstrates overloaded functions selection in C++
 
 # In file rational.cpp
 
