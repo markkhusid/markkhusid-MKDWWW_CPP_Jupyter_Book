@@ -65,6 +65,7 @@ parts:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_7_1_ADT_Conversions
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_7_2_Overloading_and_Function_Selection
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_7_3_Friend_Functions
+    - file: Object_Oriented_Programming_Using_Cpp/Chapter_7_5_Unary_Operator_Overloading
 
 - caption: Miscellaneous
   chapters:
