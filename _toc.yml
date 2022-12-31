@@ -67,6 +67,7 @@ parts:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_7_3_Friend_Functions
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_7_6_Binary_Operator_Overloading
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_7_7_Overloading_Assignment_and_Subscripting_Operators
+    - file: Object_Oriented_Programming_Using_Cpp/Chapter_7_10_Overloading_Operator_Parenthesis_for_Indexing
 
 - caption: Miscellaneous
   chapters:
