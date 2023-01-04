@@ -8,7 +8,7 @@
 
 *********************************************************************/
 
-// This file was not present together with the downloadble files that 
+// This file was not present together with the downloadable files that 
 // accompany Ira Pohl's book.  This file was typed and adapted from 
 // Ira Pohl's book.
 
