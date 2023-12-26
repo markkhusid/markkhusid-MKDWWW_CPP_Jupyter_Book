@@ -1,7 +1,7 @@
 format: jb-book
 root: intro
 parts:
-- caption: Chapter 1 - Why Object - Oriented Programming in C++?
+- caption: Object-Oriented Programming Using C++
   chapters:
   - file: Object_Oriented_Programming_Using_Cpp/Object_Oriented_Programming_Using_Cpp_Ch_1
     sections:
@@ -9,15 +9,11 @@ parts:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_1_5_Overloading
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_1_7_The_Standard_Template_Library
 
-- caption: Chapter 2 - Native Types and Statements
-  chapters:
   - file: Object_Oriented_Programming_Using_Cpp/Object_Oriented_Programming_Using_Cpp_Ch_2
     sections:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_2_3_Program_Structure
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_2_5_The_Traditional_Conversions
 
-- caption: Chapter 3 - Functions and Pointers
-  chapters:
   - file: Object_Oriented_Programming_Using_Cpp/Object_Oriented_Programming_Using_Cpp_Ch_3
     sections:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_3_1_1_Function_Invocation
@@ -30,16 +26,12 @@ parts:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_3_16_Assertions_and_Program_Correctness
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_3_19_Free_Store_Operators_new_and_delete
 
-- caption: Chapter 4 - Implementing ADTs in the Base Language
-  chapters:
   - file: Object_Oriented_Programming_Using_Cpp/Object_Oriented_Programming_Using_Cpp_Ch_4
     sections:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_4_3_An_Example_Stack
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_4_7_Bit_Fields
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_4_8_Two_Dimensional_Dynamic_Arrays
 
-- caption: Chapter 5 - Data Hiding and Member Functions
-  chapters:
   - file: Object_Oriented_Programming_Using_Cpp/Object_Oriented_Programming_Using_Cpp_Ch_5
     sections:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_5_2_Access_Private_and_Public
@@ -47,8 +39,6 @@ parts:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_5_8_Static_and_Const_Member_Functions
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_5_9_Containers_and_Item_Access
 
-- caption: Chapter 6 - Object Creation and Destructions
-  chapters:
   - file: Object_Oriented_Programming_Using_Cpp/Object_Oriented_Programming_Using_Cpp_Ch_6
     sections:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_1_0_Classes_with_Constructors
@@ -64,8 +54,6 @@ parts:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_10_Strings_Using_Reference_Semantics
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_6_11_No_Constructor_Copy_Constructor_and_Other_Mysteries
 
-- caption: Chapter 7 - Ad Hoc Polymorphism
-  chapters:
   - file: Object_Oriented_Programming_Using_Cpp/Object_Oriented_Programming_Using_Cpp_Ch_7
     sections:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_7_1_ADT_Conversions
@@ -76,6 +64,12 @@ parts:
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_7_10_Overloading_Operator_Parenthesis_for_Indexing
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_7_11_Pointer_Operators
     - file: Object_Oriented_Programming_Using_Cpp/Chapter_7_11_1_Pointer_to_Class_Member
+
+- caption: Learn Modern C++
+  chapters:
+  - file: Learn_Modern_Cpp/Learn_Modern_Cpp_Ch_1
+    sections:
+    - file: Learn_Modern_Cpp/Chapter_1_1_String_and_Character_Literals
 
 - caption: Miscellaneous
   chapters:
